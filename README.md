@@ -49,5 +49,6 @@
 ## Downloads do material
 - [Painel completo em PBI](https://github.com/ClaudioBarreira97/logistics_company_dashboard/blob/main/Case%20An%C3%A1lise%20Logistica.pbix)
 - [Base de dados em xlsx](https://github.com/ClaudioBarreira97/logistics_company_dashboard/blob/main/Base_dados_tratada_case.xlsx)
+- [Apresentação em Power Point](https://github.com/ClaudioBarreira97/logistics_company_dashboard/blob/main/Analise%20Case%20Logistica%20.pptx)
 
 
