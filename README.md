@@ -8,7 +8,7 @@
 * Acompanhamento de volume de pedidos por período. 
 
 ## Painel para analisarmos a performance por HUB
-![Painel 1]([https://github.com/ClaudioBarreira97/logistics_company_dashboard/assets/95508038/f8efa61c-38b1-4bd7-b1a8-f10ad4ceed26](https://github.com/ClaudioBarreira97/logistics_company_dashboard/blob/main/Painel_1.png))
+![Painel 1](https://github.com/ClaudioBarreira97/logistics_company_dashboard/blob/main/Painel_1.png)
 
 
 
